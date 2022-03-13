@@ -1,0 +1,10 @@
+@import "aside.css";
+@import "button.css";
+@import "nav.css";
+
+body {
+    background-image: url(../photos/a-cluster-of-curling-pink-silver-and-white-like-ink-in-water.jpg);
+    background-repeat: no-repeat;
+    background-position: stretch;
+    background-size: cover;
+}

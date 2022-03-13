@@ -1,0 +1,21 @@
+nav {
+    height: 60px;
+    width: 80%;
+}
+
+nav > ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-start;
+}
+
+nav > ul > li a {
+    display: flex;
+    color: aquamarine;
+    padding: 16px;
+    text-decoration: none;
+    font-weight: bold;
+    font: 19pt consolas;
+}

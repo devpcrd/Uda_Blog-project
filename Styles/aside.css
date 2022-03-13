@@ -1,0 +1,19 @@
+h1,
+h2 {
+    font: 30pt "Brush Script MT", cursive;
+}
+
+p {
+    font: italic small-caps bold 12px/30px Georgia, serif;
+}
+
+@media (min-width: 900px) {
+    h1,
+    h2 {
+        font: 40pt "Brush Script MT", cursive;
+    }
+
+    p {
+        font: italic small-caps bold 20px/40px Georgia, serif;
+    }
+}
